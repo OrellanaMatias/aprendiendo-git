@@ -4,4 +4,4 @@
 # Texto 1
 ## Texto 2
 
-Este repositorio es de la clase de Control de versiones, aguante GitLab y BitBucket 😎
+Este repositorio es de la clase de Control de versiones, GitLab>GitHub    facts
